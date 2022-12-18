@@ -456,6 +456,16 @@ select:-webkit-autofill:focus {
 }
 
 
+/* FEATURES */
+.features {
+  padding-bottom: 0;
+}
+
+.features__section-info {
+  margin-bottom: 44px;
+}
+
+
 @media
 only screen and (-webkit-min-device-pixel-ratio: 2),
 only screen and (   min--moz-device-pixel-ratio: 2),
